@@ -1,0 +1,5 @@
+/home/megabeing/arena/cplusplus/Distributed_computing/CMakeFiles/test.dir
+/home/megabeing/arena/cplusplus/Distributed_computing/CMakeFiles/ALL_CGAL_TARGETS.dir
+/home/megabeing/arena/cplusplus/Distributed_computing/CMakeFiles/cgal_check_build_system.dir
+/home/megabeing/arena/cplusplus/Distributed_computing/CMakeFiles/edit_cache.dir
+/home/megabeing/arena/cplusplus/Distributed_computing/CMakeFiles/rebuild_cache.dir
